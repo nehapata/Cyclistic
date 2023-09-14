@@ -4,4 +4,5 @@ Riders who purchase single-day or full-day passes are casual riders and riders w
 
 Through this repository, I am sharing all sql codes and queries that I used to clean, manipulate, and analyze the data.
 
-Link to detail description of the project will be provided soon.
+You can find the detailed description of this project [here](https://pathakjineha.wixsite.com/data/post/cyclistic-bike-share-analysis)
+
